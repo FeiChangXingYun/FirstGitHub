@@ -17,6 +17,7 @@
 		1028548E1DED7EE100E1CADD /* FirstGitHubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1028548D1DED7EE100E1CADD /* FirstGitHubTests.m */; };
 		102854991DED7EE100E1CADD /* FirstGitHubUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 102854981DED7EE100E1CADD /* FirstGitHubUITests.m */; };
 		102854A71DED863F00E1CADD /* checkWorkLocation@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 102854A61DED863F00E1CADD /* checkWorkLocation@3x.png */; };
+		102854A91DED870A00E1CADD /* chechWorkButton@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 102854A81DED870A00E1CADD /* chechWorkButton@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		102854981DED7EE100E1CADD /* FirstGitHubUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstGitHubUITests.m; sourceTree = "<group>"; };
 		1028549A1DED7EE100E1CADD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		102854A61DED863F00E1CADD /* checkWorkLocation@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "checkWorkLocation@3x.png"; sourceTree = "<group>"; };
+		102854A81DED870A00E1CADD /* chechWorkButton@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "chechWorkButton@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 				102854731DED7EE100E1CADD /* AppDelegate.h */,
 				102854741DED7EE100E1CADD /* AppDelegate.m */,
 				102854A61DED863F00E1CADD /* checkWorkLocation@3x.png */,
+				102854A81DED870A00E1CADD /* chechWorkButton@2x.png */,
 				102854761DED7EE100E1CADD /* ViewController.h */,
 				102854771DED7EE100E1CADD /* ViewController.m */,
 				102854791DED7EE100E1CADD /* Main.storyboard */,
@@ -250,6 +253,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				102854A71DED863F00E1CADD /* checkWorkLocation@3x.png in Resources */,
+				102854A91DED870A00E1CADD /* chechWorkButton@2x.png in Resources */,
 				102854831DED7EE100E1CADD /* LaunchScreen.storyboard in Resources */,
 				102854801DED7EE100E1CADD /* Assets.xcassets in Resources */,
 				1028547B1DED7EE100E1CADD /* Main.storyboard in Resources */,
